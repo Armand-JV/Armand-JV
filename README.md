@@ -30,7 +30,6 @@ From an early age, I’ve been deeply involved with technology — from troubles
 * HTML, CSS, Bootstrap
 * Linux (Debian/Ubuntu servers)
 * Git & GitHub
-* Spigot (Minecraft server development)
 
 **Core Concepts:**
 
@@ -53,11 +52,6 @@ From an early age, I’ve been deeply involved with technology — from troubles
 * Built using HTML, CSS, and JavaScript
 * Showcases my skills, experience, and projects
 * [View Website](https://armand-jv.github.io/Personal-Website/)
-
-### 🎮 Minecraft Server (Spigot)
-
-* Developed and managed a custom multiplayer server
-* Implemented plugins and configurations to enhance gameplay
 
 ### 🖥️ Home Server (Ubuntu)
 
