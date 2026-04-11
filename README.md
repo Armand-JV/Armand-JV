@@ -33,8 +33,8 @@ From an early age, I’ve been deeply involved with technology — from troubles
 
 **Core Concepts:**
 
-* Data Structures & Algorithms
-* Discrete Mathematics
+* Full Stack system design
+* Agile Project Mangement
 * Problem Solving
 
 ---
